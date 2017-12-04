@@ -1,0 +1,11 @@
+eclipse.preferences.version=1
+encoding//src/main/java/com/hyn/common/CommonConstant.java=UTF-8
+encoding//src/main/java/com/hyn/dao/BaseDao.java=UTF-8
+encoding//src/main/java/com/hyn/dao/LoginLogDao.java=UTF-8
+encoding//src/main/java/com/hyn/dao/UserDao.java=UTF-8
+encoding//src/main/java/com/hyn/domain/BaseDomain.java=UTF-8
+encoding//src/main/java/com/hyn/domain/LoginLog.java=UTF-8
+encoding//src/main/java/com/hyn/domain/User.java=UTF-8
+encoding//src/main/java/com/hyn/service/UserService.java=UTF-8
+encoding//src/main/java/com/hyn/web/BaseController.java=UTF-8
+encoding//src/main/java/com/hyn/web/LoginController.java=UTF-8
